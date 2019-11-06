@@ -1,0 +1,26 @@
+{
+  "name": "country-flags-phone-code",
+  "version": "1.0.0",
+  "description": "List of country codes with flags and phone code.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sriram10/country-flags-phone-code.git"
+  },
+  "keywords": [
+    "country",
+    "flags",
+    "phone-code",
+    "flag-emoji",
+    "country-code"
+  ],
+  "author": "Sriram Murugesh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sriram10/country-flags-phone-code/issues"
+  },
+  "homepage": "https://github.com/sriram10/country-flags-phone-code#readme"
+}
